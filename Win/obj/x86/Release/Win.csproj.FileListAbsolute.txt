@@ -1,0 +1,10 @@
+E:\ZZP\Win\Win\bin\Release\Win.exe
+E:\ZZP\Win\Win\bin\Release\Win.pdb
+E:\ZZP\Win\Win\bin\Release\MSVC60.dll
+E:\ZZP\Win\Win\bin\Release\MSVC60.pdb
+E:\ZZP\Win\Win\obj\x86\Release\Win.csprojResolveAssemblyReference.cache
+E:\ZZP\Win\Win\obj\x86\Release\Win.WinGenerate.resources
+E:\ZZP\Win\Win\obj\x86\Release\Win.Properties.Resources.resources
+E:\ZZP\Win\Win\obj\x86\Release\Win.csproj.GenerateResource.Cache
+E:\ZZP\Win\Win\obj\x86\Release\Win.exe
+E:\ZZP\Win\Win\obj\x86\Release\Win.pdb
